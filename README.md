@@ -1,5 +1,7 @@
-This repository is for my CI/CD Assignment.
-I am using GitHub Actions Super-Linter to check my code when I push or merge into the main branch.
+# CI/CD Assignment
+
+This repository is used for my CI/CD assignment.
+It includes a Super-Linter GitHub Action.
 
 What I did
 
